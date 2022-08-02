@@ -1,0 +1,142 @@
+.date-top {
+  letter-spacing: -0.02em;
+  color: #ab0000;
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+
+.main-heading {
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  font-family: "Erode, sans-serif";
+  font-size: 55px;
+}
+
+.para-data {
+  margin-bottom: 1.5625rem;
+  font-family: "Bitter, sans-serif";
+  font-size: 1.2rem;
+  line-height: 2;
+}
+
+.data-container {
+  max-width: 720px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.sub-heading {
+  margin-top: 4.6875rem;
+  margin-bottom: 1.5625rem;
+  font-family: "Erode, sans-serif";
+  color: rgba(0, 0, 0, 0.85);
+  font-size: 2rem;
+  /* font-weight: 600; */
+}
+
+.tags-btn {
+  margin-right: 10px;
+  padding: 10px 10px 8px;
+  border-radius: 6px;
+  background-color: rgba(34, 34, 34, 0.05);
+  font-family: "Epilogue, sans-serif";
+  color: rgba(0, 0, 0, 0.5);
+  font-size: 12px;
+  line-height: 12px;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  text-decoration: none;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
+.footer-options .Link {
+  display: block;
+  padding-bottom: 12px;
+  font-weight: 600;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.15);
+  color: #ab0000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+
+.footer_previous_btn {
+  padding-left: 17px;
+  background-position: 0% 50%;
+  background-size: auto;
+  background-repeat: no-repeat;
+  color: rgba(0, 0, 0, 0.5);
+  text-align: left;
+}
+
+.footer_previous_btn_data {
+  color: #222;
+  font-size: 1.75rem;
+  line-height: 1.1;
+  font-family: "Erode, sans-serif";
+}
+
+
+.footer_previous_btn_data:hover{
+  text-decoration: underline;
+}
+
+.footer_next_btn {
+  padding-left: 17px;
+  background-position: 0% 50%;
+  background-size: auto;
+  background-repeat: no-repeat;
+  color: rgba(0, 0, 0, 0.5);
+  text-align: right;
+}
+
+.footer_next_btn_data {
+  color: #222;
+  font-size: 1.75rem;
+  line-height: 1.1;
+  font-family: "Erode, sans-serif";
+}
+
+.footer_next_btn_data:hover{
+  text-decoration: underline;
+}
+
+.footer_center_btn {
+  padding-left: 17px;
+  background-position: 0% 50%;
+  background-size: auto;
+  background-repeat: no-repeat;
+  color: rgba(0, 0, 0, 0.5);
+  text-align: center;
+}
+
+.footer_center_btn_data {
+  color: #222;
+  font-size: 1.75rem;
+  line-height: 1.1;
+  font-family: "Erode, sans-serif";
+}
+
+.footer_center_btn_data:hover{
+  text-decoration: underline;
+}
+
+.email_description{
+  letter-spacing: -0.02em;
+  font-family: "Epilogue, sans-serif";
+  font-weight: 500;
+  color: #8c8984;
+  font-size: 14px;
+}
+
+
+@media (max-width: 767px) {
+  .social_media_icon_name{
+    display: none;
+  }
+}
+
+
+
+
