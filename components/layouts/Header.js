@@ -21,9 +21,9 @@ export default function Header() {
                 <nav className={`navbar ${postionSticky ? "py-3" : "py-4"} ${postionSticky ? "fixed-top" : ""}`} style={{ backgroundColor: `${postionSticky ? "#F6EFE5" : "transparent"}`, borderBottom: `${postionSticky ? "1px solid rgba(0, 0, 0, 0.12)" : ""}` }}>
                     <div className="container-lg px-lg-5">
                         <Link href="/">
-                            <img src="https://uploads-ssl.webflow.com/62c7d2e1a99459e321a73eda/62c7d2e1a994593ed4a73f05_stoa_logo.svg" alt="#ImgNotFound" style={{ cursor: "pointer" }} />
+                            <img src="https://yt3.ggpht.com/BCGjvznyp0fyUKqcSMFGfqx0vRo7G5JQICJp5f5VgIfW7aYrNuwttvHlsgaM1ONvkr3hqmgpcQ=s900-c-k-c0x00ffffff-no-rj" alt="#ImgNotFound" style={{ cursor: "pointer" }} width="50px" height="50px" />
                         </Link>
-                        <button type="button" className="btn btn-danger">
+                        <button type="button" className="btn btn-dark">
                             Stoa Program <i className="fa fa-arrow-right"></i>
                         </button>
                     </div>
