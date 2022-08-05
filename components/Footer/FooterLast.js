@@ -1,5 +1,5 @@
 import Link from 'next/link'
-import Logo from '../../public/imgs/Logo.png'
+import Logo from '../../public/imgs/FooterLogo.png'
 
 export default function FooterLast() {
     return (
@@ -7,7 +7,7 @@ export default function FooterLast() {
             <div className="container-lg">
                 <div className="row py-5">
                     <div className="col-6">
-                        <img src={Logo.src} alt="#ImgNotFound" style={{ cursor: "pointer", background:"white" }} />
+                        <img src={Logo.src} alt="#ImgNotFound" style={{ cursor: "pointer" }} />
                     </div>
                     <div className="col-6">
                         <h6 className='text-light pb-2'>

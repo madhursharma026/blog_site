@@ -26,7 +26,7 @@ export default function Header() {
                             <img src={Logo.src} alt="#ImgNotFound" style={{ cursor: "pointer" }} width="150px" />
                         </Link>
                         <button type="button" className="btn btn-dark">
-                            Stoa Program <i className="fa fa-arrow-right"></i>
+                        Explore Lapaas Services <i className="fa fa-arrow-right"></i>
                         </button>
                     </div>
                 </nav>
